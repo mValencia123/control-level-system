@@ -1,0 +1,24 @@
+{
+  "name": "control-level-system",
+  "version": "1.0.0",
+  "description": "Control level system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "level",
+    "arduino",
+    "backend"
+  ],
+  "author": "Max Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serialport": "^11.0.0",
+    "socket.io": "^4.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
